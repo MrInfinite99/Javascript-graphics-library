@@ -1,0 +1,23 @@
+{
+  "name": "js-graphics-library",
+  "version": "1.0.0",
+  "description": "a graphics library in javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrInfinite99/Javascript-graphics-library.git"
+  },
+  "keywords": [
+    "graphics",
+    "library"
+  ],
+  "author": "Karan Singh <karan97344@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrInfinite99/Javascript-graphics-library/issues"
+  },
+  "homepage": "https://github.com/MrInfinite99/Javascript-graphics-library#readme"
+}
